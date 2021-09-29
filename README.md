@@ -8,9 +8,9 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
     .
     ├── README.md         <- Este documento
     ├── atas              <- Diretório com registros das reuniões
-    ├── referencias	  <- Diretório com artigos científicos, manuais e outros documentos
-    ├── dados		  <- Diretório com dados (desde que não muito grandes)
-    └── analises	  <- Diretório com as análises feitas
+    ├── referencias       <- Diretório com artigos científicos, manuais e outros documentos
+    ├── dados             <- Diretório com dados (desde que não muito grandes)
+    └── analises          <- Diretório com as análises feitas
 
 
 ## Links para referências externas
