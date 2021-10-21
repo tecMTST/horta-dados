@@ -28,3 +28,15 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
 * [Sarangdahar et al. 2017](https://ieeexplore.ieee.org/abstract/document/8212855) - _Machine learning regression technique for cotton leaf disease detection and controlling using IoT._ Parece que o modelo avisa que tipo de doença atacou o algodão, e sugere soluções.
 * [Satamraju et al. 2017](https://ieeexplore.ieee.org/document/8363966) - _A novel system for smart and co-operative farming using IoT architecture._ Parece que eles utilizam sensor de pH.
 * [Hlaing et al. 2017](https://ieeexplore.ieee.org/abstract/document/8229343) - _Plant diseases recognition for smart farming using model-based statistical features_. Parece que eles utilizam fotos de celular para identificar doenças. O objetivo do trabalho parece ser simplificar um modelo preditivo já existente, que analisa a textura das folhas.
+
+### APIs e bases de dados meteorológicos
+
+Alguns desses dados/previsões podem ser interessantes para otimizar a irrigação das hortas (e.g. evitar de regar quando vai chover em breve).
+
+* <https://advisor.climatempo.com.br/>
+* <https://api.windy.com/>
+* <http://www.master.iag.usp.br/>
+* <https://previsaonumerica.cptec.inpe.br/bam>
+* <https://nomads.ncep.noaa.gov/>
+* <https://www.gov.br/mcti/pt-br/rede-mcti/cemaden>
+* <https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/ana-lanca-aplicativo-gratuito-com-dados-de-rios-e-chuvas-em-todo-o-brasil>
