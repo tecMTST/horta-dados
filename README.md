@@ -8,7 +8,8 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
     .
     ├── README.md         <- Este documento
     ├── atas              <- Diretório com registros das reuniões
-    ├── referencias       <- Diretório com artigos científicos, manuais e outros documentos
+    ├── referencias       <- Diretório com artigos científicos, manuais, e documentos externos.
+    ├── docs              <- Diretório com documentos internos (e.g. projetos, relatórios).    
     ├── dados             <- Diretório com dados (desde que não muito grandes)
     └── analises          <- Diretório com as análises feitas
 
@@ -19,6 +20,7 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
 
 * Site da Embrapa, com informações sobre [cultivo de hortaliças](https://www.embrapa.br/hortalicas/pagina-do-produtor).
 * [Coleção plantar](https://www.embrapa.br/hortalicas/pagina-do-produtor), da Embrapa, com informações sobre o cultivo de hortaliças.
+* [Apps da Embrapa](https://play.google.com/store/apps/developer?id=Embrapa) no Google Store.
 
 ### Bibliografia relacionada
 
