@@ -6,15 +6,23 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
 ## Estrutura do projeto:
 
     .
-    ├── README.md         <- Este documento
-    ├── atas              <- Diretório com registros das reuniões
+    ├── README.md         <- Este documento.
+    ├── atas              <- Diretório com registros das reuniões.
     ├── referencias       <- Diretório com artigos científicos, manuais, e documentos externos.
     ├── docs              <- Diretório com documentos internos (e.g. projetos, relatórios).    
-    ├── dados             <- Diretório com dados (desde que não muito grandes)
-    └── analises          <- Diretório com as análises feitas
-
+    ├── dados             <- Diretório com dados (desde que não muito grandes).
+    └── analises          <- Diretório com as análises feitas.
+    
 
 ## Links para referências externas
+
+### Sensores NDVI / PRI
+
+São sensores de reflectância espectral que podem ser utilizados para medir o Índice de Área Foliar, que serve de medida de crescimento das plantas.
+Links:
+
+* <https://www.metergroup.com/environment/products/spectral-reflectance-sensor/>
+* <http://www.labcell.com/environmental/canopy/srs-spectral-reflectance-sensor>
 
 ### Fontes de dados
 
@@ -24,12 +32,13 @@ referências bibliográficas e outros documentos, dados (ou links para dados), a
 
 ### Bibliografia relacionada
 
-* [Ramya et al. 2017](https://ieeexplore.ieee.org/document/8323908) - _Smart farming systems using sensors._
-* [Yoon et al. 2018](https://ieeexplore.ieee.org/document/8323908) - _Implement smart farm with IoT technology._
-* [Patil et al. 2016](https://ieeexplore.ieee.org/document/7802887) - _Early detection of grapes diseases using machine learning and IoT._
-* [Sarangdahar et al. 2017](https://ieeexplore.ieee.org/abstract/document/8212855) - _Machine learning regression technique for cotton leaf disease detection and controlling using IoT._ Parece que o modelo avisa que tipo de doença atacou o algodão, e sugere soluções.
-* [Satamraju et al. 2017](https://ieeexplore.ieee.org/document/8363966) - _A novel system for smart and co-operative farming using IoT architecture._ Parece que eles utilizam sensor de pH.
-* [Hlaing et al. 2017](https://ieeexplore.ieee.org/abstract/document/8229343) - _Plant diseases recognition for smart farming using model-based statistical features_. Parece que eles utilizam fotos de celular para identificar doenças. O objetivo do trabalho parece ser simplificar um modelo preditivo já existente, que analisa a textura das folhas.
+* [Royo & Villegas (2011)](https://www.intechopen.com/chapters/19066) - _Field Measurements of Canopy Spectra for Biomass Assessment of Small-Grain Cereals._
+* [Ramya et al. (2017)](https://ieeexplore.ieee.org/document/8323908) - _Smart farming systems using sensors._
+* [Yoon et al. (2018)](https://ieeexplore.ieee.org/document/8323908) - _Implement smart farm with IoT technology._
+* [Patil et al. (2016)](https://ieeexplore.ieee.org/document/7802887) - _Early detection of grapes diseases using machine learning and IoT._
+* [Sarangdahar et al. (2017)](https://ieeexplore.ieee.org/abstract/document/8212855) - _Machine learning regression technique for cotton leaf disease detection and controlling using IoT._ Parece que o modelo avisa que tipo de doença atacou o algodão, e sugere soluções.
+* [Satamraju et al. (2017)](https://ieeexplore.ieee.org/document/8363966) - _A novel system for smart and co-operative farming using IoT architecture._ Parece que eles utilizam sensor de pH.
+* [Hlaing et al. (2017_](https://ieeexplore.ieee.org/abstract/document/8229343) - _Plant diseases recognition for smart farming using model-based statistical features_. Parece que eles utilizam fotos de celular para identificar doenças. O objetivo do trabalho parece ser simplificar um modelo preditivo já existente, que analisa a textura das folhas.
 
 ### APIs e bases de dados meteorológicos
 
